@@ -1,0 +1,14 @@
+body {
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+
+#loginform {
+    background-color: white;
+    padding: 2%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 2%;
+    background-color: #ffffff;
+    background-image: linear-gradient(180deg, #ffffff 0%, #e6f7f4 100%); 
+}
